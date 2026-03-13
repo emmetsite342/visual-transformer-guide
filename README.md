@@ -84,7 +84,7 @@ index.html
 
 # 📸 Preview
 
-*(Add screenshots here once uploaded)*
+
 
 ---
 
